@@ -17,6 +17,7 @@ Demonstrate independent scaling, resilience, and service separation
 This mirrors how many enterprises modernize legacy applications incrementally.
 
 Architecture
+
 Before Modernization
 User Browser
       │
@@ -27,6 +28,7 @@ Monolithic Application
  ├ Product Catalog
  ├ Cart
  └ Orders
+
 After Modernization
 User Browser
       │
